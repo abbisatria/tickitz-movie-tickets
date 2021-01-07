@@ -18,4 +18,4 @@ This app is still static
 
 ## License
 
-© [SASS](https://sass-lang.com/)
+© [Abbi Satria](https://gist.github.com/abbisatria)
