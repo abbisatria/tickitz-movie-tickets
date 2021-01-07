@@ -4,6 +4,10 @@ Tickitz is an online ticket booking application for watching movies in theaters
 
 ![tickitz](https://user-images.githubusercontent.com/62535100/103880622-f44b5580-510b-11eb-8d4a-1105cfdc7976.PNG)
 
+## Link Netlify
+
+[Tickitz](https://tickitz-movie-tickets.netlify.app/)
+
 ## Built With
 
 * [HTML](https://www.w3schools.com/html/)
